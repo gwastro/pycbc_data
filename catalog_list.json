@@ -1,0 +1,74 @@
+{
+    "GWTC-1-confident": {
+        "description": "Confident detections from \"GWTC-1: A Gravitational-Wave Transient Catalog of Compact Binary Mergers Observed by LIGO and Virgo during the First and Second Observing Runs.\"  \r\nAdditional data products, including PE samples and skymaps, are linked from the documentation at\r\n<a href='https://doi.org/10.7935/82H3-HH23'>https://doi.org/10.7935/82H3-HH23</a>",
+        "url": "https://gwosc.org/eventapi/json/GWTC-1-confident"
+    },
+    "GWTC-1-marginal": {
+        "description": "Marginal candidates from \"GWTC-1: A Gravitational-Wave Transient Catalog of Compact Binary Mergers Observed by LIGO and Virgo during the First and Second Observing Runs.\"  \r\nAdditional data products are linked from the documentation at\r\n<a href='https://doi.org/10.7935/82H3-HH23'>https://doi.org/10.7935/82H3-HH23</a>",
+        "url": "https://gwosc.org/eventapi/json/GWTC-1-marginal"
+    },
+    "GWTC-2": {
+        "description": "Events from the O3A observation run of LIGO and Virgo, as described in the GWTC-2 catalog paper.  These events are also included in a cumulative list of <a href='/eventapi/html/GWTC'>all GWTC events</a> published to date.  Details and additional data products are linked from the <a href='/GWTC-2'>documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-2"
+    },
+    "GWTC-2.1-auxiliary": {
+        "description": "This release/list/table contains candidates from GWTC-2 which, based on the [updated] analysis presented in the GWTC-2.1 catalog paper [https://arxiv.org/abs/2108.01045], do not satisfy the requirements/criteria for inclusion in the GWTC-2.1-confident or GWTC-2.1-marginal releases.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-2.1-auxiliary"
+    },
+    "GWTC-2.1-confident": {
+        "description": "Confident events from the O3a observation run for LIGO and Virgo and updated source properties for all binary black hole events previously reported in GWTC-1, as described in the GWTC-2.1 catalog paper. These events are also included in a cumulative list of <a href='/eventapi/html/GWTC'>all GWTC events</a> published to date. Details and additional data products are linked from the <a href='/GWTC-2.1'>documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-2.1-confident"
+    },
+    "GWTC-2.1-marginal": {
+        "description": "Marginal candidates from the O3A observation run for LIGO and Virgo, as described in the GWTC-2.1 catalog paper. Details and additional data products are linked from the <a href='/GWTC-2.1'>documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-2.1-marginal"
+    },
+    "GWTC-3-confident": {
+        "description": "Confident events from the O3b observing run for LIGO and Virgo, as described in the GWTC-3 catalog paper. These candidate events have a probability of astrophysical origin (probability of being a gravitational-wave signal versus being instrumental noise) assuming a compact binary (such as a binary black hole, neutron star-black hole binary or binary neutron star) coalescence source of greater than 0.5 based upon results of at least one of the search pipelines. These events are also included in a cumulative list of <a href='/eventapi/html/GWTC'>all GWTC events</a> published to date.  Details and additional data products are linked from the <a href='/GWTC-3'>documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-3-confident"
+    },
+    "GWTC-3-marginal": {
+        "description": "Marginal candidates from the O3b observing run for LIGO and Virgo, as described in the GWTC-3 catalog paper. The \"GW\" prefix is omitted for candidates that have a plausible instrumental origin. Details and additional data products are linked from the <a href='/GWTC-3'>documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-3-marginal"
+    },
+    "GWTC-4.0": {
+        "description": "Confident events from the O4a observing run for LIGO and Virgo, as described in the GWTC-4.0 catalog paper. For details of all events in the cumulative GWTC-4.0 catalog, see <a href=\"/eventapi/html/GWTC\">GWTC catalog</a>. These candidate events have a probability of astrophysical origin (probability of being a gravitational-wave signal versus being instrumental noise) assuming a compact binary (such as a binary black hole, neutron star-black hole binary or binary neutron star) coalescence source of greater than 0.5 or a false alarm rate of less than 1 per year based upon results of at least one of the search pipelines. Details and additional data products are linked from the <a href=\"/GWTC-4.0\">documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-4.0"
+    },
+    "GWTC-4.1": {
+        "description": "Confident events from the O4a observing run for LIGO and Virgo, as described in the GWTC-5.0 catalog paper. These candidate events have a probability of astrophysical origin (probability of being a gravitational-wave signal versus being instrumental noise) assuming a compact binary (such as a binary black hole, neutron star-black hole binary or binary neutron star) coalescence source of greater than 0.5 or a false alarm rate of less than 1 per year based upon results of at least one of the search pipelines. Details and additional data products are linked from the <a href=\"/GWTC-4.1\">documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-4.1"
+    },
+    "GWTC-5.0": {
+        "description": "Confident events from the O4b observing run for LIGO and Virgo, as described in the GWTC-5.0 catalog paper. These candidate events have a probability of astrophysical origin (probability of being a gravitational-wave signal versus being instrumental noise) assuming a compact binary (such as a binary black hole, neutron star-black hole binary or binary neutron star) coalescence source of greater than 0.5 or a false alarm rate of less than 1 per year based upon results of at least one of the search pipelines. Details and additional data products are linked from the <a href=\"/GWTC-5.0\">documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/GWTC-5.0"
+    },
+    "IAS-O3a": {
+        "description": "The IAS-O3a catalog contains 42 binary black hole mergers in the public data from the first half of the third observing run (O3a) of advanced LIGO and advanced Virgo. Of these, 10 were reported there for the first time. Details and additional data products are linked from the <a href=\"/IAS-O3a\">documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/IAS-O3a"
+    },
+    "Initial_LIGO_Virgo": {
+        "description": "Event data releases from initial LIGO and Virgo, 2005 - 2010.  No astrophysical detections were made during this period.",
+        "url": "https://gwosc.org/eventapi/json/Initial_LIGO_Virgo"
+    },
+    "O1_O2-Preliminary": {
+        "description": "Notable events in O1 and O2 initially published before the GWTC-1 catalog.  These data releases may contain preliminary versions of data quality segments and calibration.  For additional documentation released at the time of publication, see the \"reference\" link for each event.  Updated information for these events may be found in the <a href='/GWTC-1'>GWTC-1 catalog</a>.",
+        "url": "https://gwosc.org/eventapi/json/O1_O2-Preliminary"
+    },
+    "O3_Discovery_Papers": {
+        "description": "Notable events in O3 initially published outside of main catalogs.  Associated data releases may contain  preliminary versions of data quality segments and calibration.  See <a href='/o3_eventdata_docs'>documentation page</a> for additional notes.",
+        "url": "https://gwosc.org/eventapi/json/O3_Discovery_Papers"
+    },
+    "O3_IMBH_marginal": {
+        "description": "O3 IMBH marginal candidates associated with O3 observation run for LIGO and Virgo",
+        "url": "https://gwosc.org/eventapi/json/O3_IMBH_marginal"
+    },
+    "O4_Discovery_Papers": {
+        "description": "O4 Discovery Papers Catalog associated with O4 observation run for LIGO and Virgo. Details and additional data products are linked from the <a href='/o4_eventdata_docs'>documentation page</a>.",
+        "url": "https://gwosc.org/eventapi/json/O4_Discovery_Papers"
+    },
+    "GWTC": {
+        "description": "The Gravitational-wave Transient Catalog (GWTC) is a cumulative set of gravitational wave transients maintained by the LIGO/Virgo/KAGRA collaboration. The online GWTC contains confidently-detected events from multiple data releases.",
+        "url": "https://gwosc.org/eventapi/json/GWTC"
+    }
+}

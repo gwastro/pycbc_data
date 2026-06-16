@@ -1,0 +1,41 @@
+{
+  "dataset": "O2_16KHZ_R1",
+  "GPSstart": 1187008674,
+  "GPSend": 1187009090,
+  "strain": [
+    {
+      "GPSstart": 1187008512,
+      "UTCstart": "2017-08-17T12:34:54",
+      "detector": "V1",
+      "sampling_rate": 16384,
+      "duration": 4096,
+      "format": "hdf5",
+      "url": "https://gwosc.org/archive/data/O2_16KHZ_R1/1186988032/V-V1_GWOSC_O2_16KHZ_R1-1187008512-4096.hdf5",
+      "min_strain": -3.05410633150094e-17,
+      "max_strain": 7.70852590688372e-17,
+      "mean_strain": 1.70523947079635e-24,
+      "stdev_strain": 9.1617287182107e-19,
+      "duty_cycle": 100.0,
+      "BLRMS200": 1.03544560828356e-22,
+      "BLRMS1000": 3.33717871343012e-22,
+      "BNS": 24.7591564492336
+    },
+    {
+      "GPSstart": 1187008512,
+      "UTCstart": "2017-08-17T12:34:54",
+      "detector": "V1",
+      "sampling_rate": 16384,
+      "duration": 4096,
+      "format": "gwf",
+      "url": "https://gwosc.org/archive/data/O2_16KHZ_R1/1186988032/V-V1_GWOSC_O2_16KHZ_R1-1187008512-4096.gwf",
+      "min_strain": -3.05410633150094e-17,
+      "max_strain": 7.70852590688372e-17,
+      "mean_strain": 1.70523947079635e-24,
+      "stdev_strain": 9.1617287182107e-19,
+      "duty_cycle": 100.0,
+      "BLRMS200": 1.03544560828356e-22,
+      "BLRMS1000": 3.33717871343012e-22,
+      "BNS": 24.7591564492336
+    }
+  ]
+}
